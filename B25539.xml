@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Knovvne lavves a short examination of the counsells and actions of those that have withdrawne the King from the governement and protection of his people.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25539</idno><idno type="EEBO-CITATION">12142076</idno>
+  <idno type="VID">196988</idno>
+  <idno type="EEBO-PROQUEST">2240956291</idno>
+  
+            <idno type="STC">Wing K736</idno>
+            <idno type="OCLC">12142076</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196988)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E85, no 32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Knovvne lavves a short examination of the counsells and actions of those that have withdrawne the King from the governement and protection of his people.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Constitutional law.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196988:1"/>
+            <p>KNOWNE LAVVES.</p>
+            <p>A SHORT EXAMINATION OF THE Counsells and Actions of Those that have withdrawne the KING FROM THE GOVERNEMENT and PROTECTION of His People.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196988:2"/>
+            <pb n="1" facs="tcp:196988:2"/>
+            <head>KNOWNE LAWES.</head>
+            <head type="sub">A short EXAMINATION of the Counsels and Actions, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch as indeavour to put a faire Glosse upon their illegall Actions, and to asperse the lawfull procee<g ref="char:EOLhyphen"/>dings of the Parliament, among other Engines forged in Hell, have invented and used a new name for our Lawes, calling them <hi>Knowne Lawes,</hi> to amuse and abuse the sim<g ref="char:EOLhyphen"/>ple with new Epithets and ambi<g ref="char:EOLhyphen"/>guous words, whereby they seem to insinuate, either that our Lawes in every particular in question is knowne to e<g ref="char:EOLhyphen"/>very one that reades their Pamphlets, or that, what is not known to their Readers, and acknowledged by themselves, is not nor can be Law, or that they and every of their Rea<g ref="char:EOLhyphen"/>ders, know the Law better then the Parliament.</p>
+            <p>This I am sure is a knowne truth, <hi>That the principles of Arts and Sciences are knowne only to those that by great industry and study search after them</hi>
+               <note n="a" place="margin">Nemo nas<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tur artisex.</note>: And then certainly the arts and sciences themselves, and the severall conclusi<g ref="char:EOLhyphen"/>ons deducible from those principles, by discourse and argu<g ref="char:EOLhyphen"/>mentation (which are but virtually
+<note n="b" place="margin">Tota scientia virtute conti<g ref="char:EOLhyphen"/>netur in princi<g ref="char:EOLhyphen"/>pijs.</note> contained in the principles) are much more removed from common know<g ref="char:EOLhyphen"/>ledge and understandings. If our Lawes be knowne by
+<pb n="2" facs="tcp:196988:3"/>the people to whom these deceivers speak of <hi>knowne Laws,</hi> or by themselves better then by the Parliament, how comes it to passe that men take such paines, and are at so much cost for advise and information, What is Law in their particular cases and occasions? and when they have procu<g ref="char:EOLhyphen"/>red from learned Lawyers as good advise as they can for their money, and it descends to Arguments upon demur<g ref="char:EOLhyphen"/>rer or speciall verdict, the Law falls out to be otherwise then they were before informed, and that when judge<g ref="char:EOLhyphen"/>ment is given one way in one Courton mature deliberation, upon a Writ of Errour brought, it is adjudged another way upon further debate and consideration in another Court, and when it hath passed through the disquisition and sifting of all, and obtained the judgement of most of the Judges of his Majesties ordinary Courts of justice at <hi>Westminster,</hi> the contrary is finally setled, declared and de<g ref="char:EOLhyphen"/>termined to be Law by the most high Court
+<note n="c" place="margin">So called <hi>Doc.</hi> &amp; <hi>Stud</hi> 44. a. 36. <hi>H.</hi> 8. <hi>dier.</hi> 59. <hi>p.</hi> 21. 19. <hi>H.</hi> 6.63. a. 33. <hi>H.</hi> 6.18. a and 31 <hi>H.</hi> 8 <hi>cap.</hi> 10. The House of Lords is so sti<g ref="char:EOLhyphen"/>led by the judgement of King and Par<g ref="char:EOLhyphen"/>liament.</note>, the Houses of Parliament, as it hapned in the late cases of Ship-mony and Impositions.</p>
+            <p>They that pretend they disabuse the people, by telling them of <hi>knowne Lames,</hi> doe in truth grossely abuse them, and in abominable hypocrisie angle their hearts to no other end, but that having caught them they may tyrannize over them and devoure them.</p>
+            <p>It is knowne and agreed by all the learned in the Lawe of this Land, <hi>That the Lawes are the bounds of the Kings power and command</hi>
+               <note n="a" place="margin">
+                  <hi>Lex fraenum est regis potentiae.</hi> Bracton. <hi>l</hi> 3. <hi>de action. cap</hi> 9. <hi>Sect.</hi> 3. The King can<g ref="char:EOLhyphen"/>not govern his people by any other power then the Law. <hi>Fortesc. de leg.</hi> 32. a. <hi>Potest as sua ju ris est non inju<g ref="char:EOLhyphen"/>riae.</hi> Bract <hi>ubi supra Cok rep</hi> 11 74. b</note>; and of the Subjects Allegeance and Obedience in their Oathes and Protestation inten<g ref="char:EOLhyphen"/>ded. So as if the King command or doe any thing which the Law approves not, it is void and null in Law; and he that executes such command to the prejudice of any Sub<g ref="char:EOLhyphen"/>ject, is so farre from being obedient or in any respect com<g ref="char:EOLhyphen"/>mendable, as he is an offender and punishable; and his alleadging the Kings command in his excuse, is an aggra<g ref="char:EOLhyphen"/>vation of his sinne, in that he thereby endeavours to cast dirt in the face of his Soveraigne to blemish his honour and make him vile in the eyes of his Subjects, yea more vile then
+<pb n="3" facs="tcp:196988:3"/>himself, as sinne and wickednesse is more abhominable and hatefull in the cause, fountaine and commander of it
+<note n="b" place="margin">Plus peccat author quam actor.</note>. Hence are those common knowne maximes of the Law, <hi>The King cannot doe any wrong</hi>
+               <note n="c" place="margin">
+                  <hi>Cok. re.</hi> 11.72. b <hi>&amp; rep.</hi> 1.44. b 1. <hi>E</hi> 58. <hi>p</hi> 13.</note>: <hi>He cannot doe any thing which hee may not doe by the Law</hi>
+               <note n="d" place="margin">
+                  <hi>Rex nihil po<g ref="char:EOLhyphen"/>test, nisi id solū quoa de jure po<g ref="char:EOLhyphen"/>test.</hi> Bracton <hi>u<g ref="char:EOLhyphen"/>bisupra,</hi> Cok. <hi>rep</hi> 9.123 a <hi>&amp; <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ep.</hi> 11.24. b.</note>: <hi>The Law bindes the King and is his Superiour▪</hi>
+               <note n="e" place="margin">
+                  <hi>Rex habet su<g ref="char:EOLhyphen"/>pertorem Deum scilicet &amp; le<g ref="char:EOLhyphen"/>gem per quam factus est Rex.</hi> Bract: <hi>l.</hi> 2. <hi>c</hi> 16. <hi>Sect.</hi> 3. <hi>Hoc sāxit lex huma<g ref="char:EOLhyphen"/>na quod leges suum ligent la<g ref="char:EOLhyphen"/>torem.</hi> Bract. <hi>l.</hi> 3. <hi>de actionibus ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 9 <hi>Sect.</hi> 3.</note>. Therefore it is called the Law of <hi>England,</hi> because it extends to bind both King and people of <hi>England. Cok.</hi> 2<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Institutes</hi> 51. And the <hi>Kings Oath</hi> binds him expresly to keepe and observe the <hi>Lawes of the Kingdome</hi>
+               <note n="f" place="margin">Tenere leges &amp; consuetudi<g ref="char:EOLhyphen"/>nes regni.</note>. And the reason of the Lawes Supremacy, is, because the Lawes are made by a higher and more supreame power then the King, even by an absolute power vested (not in the King) but in the Kingdome, concurring and represented in the three Estates thereof, <hi>King, Lords</hi> and <hi>Commons</hi> in Parliament, and the King considered as distinct from the other two Estates is by them created to see the Lawes to be executed, and justice done to all men, and made and ordained for the defence of the Lawes, and his Subjects, and their goods, and for this end he hath recei<g ref="char:EOLhyphen"/>ved power from his people
+<note n="g" place="margin">Bracton <hi>l.</hi> 3. <hi>de act. c</hi> 9. <hi>Sect.</hi> 3 Fortescue <hi>de legibus</hi> 32. a. Cok <hi>re.</hi> 7. Cal<g ref="char:EOLhyphen"/>vins <hi>c</hi> 5. a.</note>: And therefore all pretences and claime of right by the King, and all offences against him, and all offences done by colour of his command are questioned and determined by Law in Courts of Justice. And in these things our Law is agreeable unto, and groun<g ref="char:EOLhyphen"/>ded upon the Law of God, which sets the King his bounds, and injoynes that the King should have a booke of the Law, and should reade and meditate on it, and observe to doe it, and not turne aside from it, as the onely way to establish him and his Posterity, and make his way prosperous, <hi>Deut.</hi> 17.18, 19. <hi>Josh.</hi> 1.8. And if he breake his bounds (which he doth alwayes, when he breakes the Law of his government, whether made by God immediately, or by States and Kingdomes (where he rules) by divine pro<g ref="char:EOLhyphen"/>vidence) God will poure out his wrath upon him like water, and if his Subjects willingly yeeld unto him in such his wicked courses, and obey his illegall commands, God will be unto them as the <hi>Moth,</hi> and as <hi>rottennes,</hi> Hos. 5.10, 11, 12.</p>
+            <pb n="4" facs="tcp:196988:4"/>
+            <p>And for inabling the King to his office and trust reposed in him by the Kingdome, he is by the Law invested with a judiciall power to judge and determine in all things happening in his Kingdome, not in person, his person be<g ref="char:EOLhyphen"/>ing by the Law presumed ignorant of it
+<note n="a" place="margin">Cok. <hi>re.</hi> 153.</note>; but by his Courts, of which the Parliament is supreame
+<note n="b" place="margin">8 H. 4.13 b. Cok. ad. Instit. 103.24. H. 8. <hi>cap.</hi> 12.</note>, in which are learned Judges, and men educated in the studies, and greatly experienced in the practise of the Laws and govern<g ref="char:EOLhyphen"/>ment of the Kingdom.</p>
+            <p>And as to ministeriall offices and acts of Ministery in the Law they are so below the Majesty with which the royall Person of the King is by Law cloathed and adorned, as the Law, will not admit such an <hi>indecorum,</hi> as to allow of any such thing done by him, specially if any Subject receive prejudice by it; and therfore he cannot turn informer or accuser of Treason or other crime, he cannot arrest or com<g ref="char:EOLhyphen"/>mand in person any arrest, but all such things done by him are judged void and of no effect in Law
+<note n="c" place="margin">16. H. 6. <hi>Mon<g ref="char:EOLhyphen"/>strans del faits. Fitz.</hi> 182. 1 <hi>H.</hi> 7. 4. <hi>p.</hi> 5.</note>; and the reason is very evident, for the Subject upon such accusation, arrest, <hi>&amp;c.</hi> if unjust, can have no remedy against the Kings Per<g ref="char:EOLhyphen"/>son: and so there should be a wrong done, and no Law to right the oppressed, and punish the wrong-doer.</p>
+            <p>This being the true state of the Laws of God and of the kingdom, concerning the King in these things, How great<g ref="char:EOLhyphen"/>ly doe they wrong the King, and abuse the Subjects, that talke of a Prerogative or power in the King, either above the Law, or not declared and allowed by the Law, that call for conscience to obey the Kings commands, not warran<g ref="char:EOLhyphen"/>ted by Law, when conscience (which is the knowledge of things, as God knows and acknowledges them
+<note n="d" place="margin">Conscientia est scientia cum Deo.</note>) binds us to reject and abhorre them, and not to obey them, least the curse of the Moth and rottennesse seise upon us. How will they answer before God or man, that counsell, advise and put the King to take up Armes against his highest Court of Justice, and to protect Delinquents from Justice, which is to set the Kings Person by an unlawfull force to indeavour to suppresse and over-throw his kingly lawfull
+<pb n="5" facs="tcp:196988:4"/>power and authority, not any where so illustrious and emi<g ref="char:EOLhyphen"/>nent as in his Parliament. And to make the King a terror to the good, and a shelter to the wicked, who by Gods or<g ref="char:EOLhyphen"/>dinance is <hi>A minister for good to give praise to them that doe well,</hi> and protect them, <hi>and to execute wrath upon them that do evill, Rom.</hi> 13.3, 4.
+<note n="e" place="margin">
+                  <hi>Rex vicarius Dei est dum fa<g ref="char:EOLhyphen"/>cit justitiam, minister autem Diaboli dum declinet ad in<g ref="char:EOLhyphen"/>juriam</hi> Bract. <hi>l</hi> 3. <hi>de act. c.</hi> 9. <hi>Sect.</hi> 3.</note>. Is it not a maxime of the Common-law, <hi>That it is not lawfull for any,</hi> King or Subject, <hi>to di<g ref="char:EOLhyphen"/>sturbe or hinder the execution of the proces of the Law and Courts of Iustice</hi>
+               <note n="f" place="margin">8 <hi>E.</hi> 2. <hi>Fitz.</hi> Execution 252 <hi>Cok. rep</hi> 5 <hi>Se<g ref="char:EOLhyphen"/>maynes</hi> case 92. b. Cok. 2d. <hi>Instit.</hi> 194.</note>: And is not the Kings command, though un<g ref="char:EOLhyphen"/>der the great Seale, and his indeavour to deny or delay justice against the Law and his Oath
+<note n="g" place="margin">
+                  <hi>Mag. Chart. c.</hi> 29. 1 <hi>E</hi> 3 <hi>c.</hi> 8.14. <hi>E.</hi> 3 <hi>c.</hi> 14.</note>? And if any resist the executing of the proces of any of the Courts of justice upon Delinquents, or otherwise, may not the minister of justice command and gather force of men and arms, and take, yea kill and destroy the resisters, if otherwise he can<g ref="char:EOLhyphen"/>not execute the same? And is not every man bound to as<g ref="char:EOLhyphen"/>sist the ministers of the Courts of justice herein
+<note n="h" place="margin">8 <hi>H.</hi> 4.10 <hi>p</hi> 4 19. <hi>E.</hi> 2 <hi>Fitz</hi> Execution 247 <hi>Bract.</hi> 442. <hi>Sec.</hi> 7. 3 <hi>H.</hi> 7.10. <hi>p.</hi> 4. Cok. 2d. <hi>In<g ref="char:EOLhyphen"/>stitutes</hi> 193. <hi>&amp; rep</hi> 5.93. b. <hi>Se<g ref="char:EOLhyphen"/>mayns</hi> case. 3. <hi>H</hi> 7.1 <hi>p.</hi> 1.5. <hi>H.</hi> 7.4. <hi>p.</hi> 10.</note>? And is not the reason hereof obvious to every man, namely, because Execution is the life of the Law, which without it be<g ref="char:EOLhyphen"/>comes vain and uselesse? Are not these known to the mea<g ref="char:EOLhyphen"/>nest Student of the Law? And is not this the case between the King and the Parliament? Surely, if the forces of the Parliament be Traitors, the <hi>knowne Lawes</hi> of this Land are the Patrons and Commanders of Treason, which no sensi<g ref="char:EOLhyphen"/>ble brain, if not full and running over with malice, could ever have dream'd of or imagined. How can we expect that justice shall ever be done in this Realme, if wicked Counsellors shall prevail by force and violence in the Kings name to hinder and resist the Execution and life therof when they please? If they shall by such unlawfull wicked courses over-powre the supreame Court, how easily will they enervate and cut the sinews of inferior Courts, and go<g ref="char:EOLhyphen"/>verne by unlawfull force, not by Law; and what secu<g ref="char:EOLhyphen"/>rity can protestations give of governing by Law, when practise and actions have ordinarily before the Parliament, and now in the face of the Parliament, and in despight of it, do run clean contrary therunto, even in the very instant
+<pb n="6" facs="tcp:196988:5"/>of making those protestations. What colour of Law is there for the King to kill and plunder, spoyl and destroy his Sub<g ref="char:EOLhyphen"/>jects without proces of Law (against <hi>Magna Charta c.</hi> 29) whom he is bound by Oath and Office to protect? Are those that have seduced the King from his Parliament and people carefull, according to their Protestation, <hi>to maintain the Kings honour,</hi> When they put him upon such base, ille<g ref="char:EOLhyphen"/>gall, uncomely imployments, to become an Informer, an Accuser of Treason, <hi>&amp;c.</hi> and upon such a multitude of un<g ref="char:EOLhyphen"/>lawfull commands and actions, destructive to his Kingdom and people, and take all the possible courses that hell can invent to render him vile in the eyes of men? Do these men take the way to establish the King and his Posterity, or to provoke God to poure out his wrath upon them, and make their ways unprosperous? How irrationall is it that the King should declare Law, when assuming it in his Grants
+<note n="i" place="margin">18. <hi>H.</hi> 8. <hi>Br. pat.</hi> 104. Cok. <hi>rep.</hi> 14<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> b</note>, Commissions
+<note n="k" place="margin">42. <hi>ass.</hi> 5. <hi>&amp;</hi> 12.24 <hi>E</hi> 3 <hi>Br.</hi> Commissions 3 Commission to take any Subject or his goods without due proces of Law judged void.</note> and Proclamations under the great Seal, he is commonly judged, even in his ordinary Courts of justice to be deceived, abused and misinformed, and his Grants, <hi>&amp;c.</hi> therupon judged void and damned? What credit can be gi<g ref="char:EOLhyphen"/>ven to protestations of maintaining Religion and the Sub<g ref="char:EOLhyphen"/>jects liberty, when before, at and since the making of them, the Subjects that have executed only legall commands, or refused illegall, are used more barbarously then the <hi>Turkes</hi> do their slaves, without any spark of common humanity, and while they be the principall objects and subjects of the ma<g ref="char:EOLhyphen"/>lice and cruelty of the Kings Army and their Counsellours and abettours, that have any more then common care of a conscientious practise of Religion, and of walking by the rules of it. Consider what I say, and the Lord give us un<g ref="char:EOLhyphen"/>derstanding.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
